@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;    
 
+
 public class SecondActivity extends ActionBarActivity {
 
     Button btnClickMe;
